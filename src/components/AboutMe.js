@@ -119,7 +119,7 @@ const AboutMe = () => {
                     I graduated with a degree in Computer Science in 2022 and began my tech career in 2021 while still studying. During this time, I gained valuable experience working with tech companies and freelancing, where I helped clients achieve their goals. These roles were essential in building my ability to navigate, solve diverse technical challenges and consistently delivering results.
                   </p>
                   <p className="text-sm md:text-base">
-                    Building on this foundation, my focus has naturally shifted to generative AI research, where I'm passionate about creating ethical AI systems that make technology more accessible and solve key social issues. This work aligns with my desire to use technology for positive change, and I'm eager to continue applying my skills in this area.
+                    Building on this foundation, my focus has naturally shifted to generative AI research, where I&apos;m passionate about creating ethical AI systems that make technology more accessible and solve key social issues. This work aligns with my desire to use technology for positive change, and I&apos;m eager to continue applying my skills in this area.
                   </p>
                   <p className="text-sm md:text-base">
                     Ultimately, I aspire to lead research teams, connecting new ideas with practical, real-world solutions, just as I&apos;ve done in my professional journey so far.
