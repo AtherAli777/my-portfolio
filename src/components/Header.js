@@ -1,12 +1,12 @@
 'use client';
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect,useMemo } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import Link from 'next/link';
 
 const Header = () => {
-  const menuItems = [
-    'Home', 'About', 'Services', 'Portfolio', 'Experience', 'Skills', 'Blog', 'Contact'
-  ];
+    const menuItems = useMemo(() => [
+      'Home', 'About', 'Services', 'Portfolio', 'Experience', 'Skills', 'Blog', 'Contact'
+    ], []);
 
   const [activeSection, setActiveSection] = useState('Home');
   const [isMenuOpen, setIsMenuOpen] = useState(false);
