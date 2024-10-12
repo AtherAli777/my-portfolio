@@ -143,8 +143,8 @@ const ContactInfo = ({ delay }) => {
       }}
       transition={{ duration: 0.7, delay: delay * 0.1 }}
     >
-      <h2 className="text-2xl sm:text-3xl font-bold mb-6 sm:mb-8 font-['Merriweather', serif]">Let's Connect and Create Something Amazing Together</h2>
-      <p className="mb-6 sm:mb-8 text-sm sm:text-base font-['Open Sans', sans-serif]">I'm passionate about bringing innovative ideas to life through collaboration. Whether you have a specific project in mind or simply want to discuss the latest trends in AI & web development, I'm eager to connect. My expertise is at your disposal, so don't hesitate to reach out. Let's create something extraordinary together!</p>
+      <h2 className="text-2xl sm:text-3xl font-bold mb-6 sm:mb-8 font-['Merriweather', serif]">Let&apos;s Connect and Create Something Amazing Together</h2>
+      <p className="mb-6 sm:mb-8 text-sm sm:text-base font-['Open Sans', sans-serif]">I&apos;m passionate about bringing innovative ideas to life through collaboration. Whether you have a specific project in mind or simply want to discuss the latest trends in AI & web development, I&apos;m eager to connect. My expertise is at your disposal, so don&apos;t hesitate to reach out. Let&apos;s create something extraordinary together!</p>
       <div className="mb-4 sm:mb-5 text-sm sm:text-base font-['Open Sans', sans-serif]">
         <strong>Name:</strong> Ather Ali
       </div>

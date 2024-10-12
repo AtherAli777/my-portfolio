@@ -131,7 +131,7 @@ const Services = () => {
             animate={inView ? { opacity: 1, y: 0 } : { opacity: 0, y: 20 }}
             transition={{ duration: 0.7, delay: 0.4 }}
           >
-            I leverage cutting-edge technologies and creative expertise to deliver exceptional solutions across various domains. From AI integration to stunning visual designs, I'm here to bring your vision to reality.
+            I leverage cutting-edge technologies and creative expertise to deliver exceptional solutions across various domains. From AI integration to stunning visual designs, I&apos;m here to bring your vision to reality.
           </motion.p>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-6 sm:gap-8">
             {services.map((service, index) => (

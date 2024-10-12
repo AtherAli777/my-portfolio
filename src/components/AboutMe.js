@@ -122,11 +122,11 @@ const AboutMe = () => {
                     Building on this foundation, my focus has naturally shifted to generative AI research, where I'm passionate about creating ethical AI systems that make technology more accessible and solve key social issues. This work aligns with my desire to use technology for positive change, and I'm eager to continue applying my skills in this area.
                   </p>
                   <p className="text-sm md:text-base">
-                    Ultimately, I aspire to lead research teams, connecting new ideas with practical, real-world solutions, just as I've done in my professional journey so far.
+                    Ultimately, I aspire to lead research teams, connecting new ideas with practical, real-world solutions, just as I&apos;ve done in my professional journey so far.
                   </p>
                   <h2 className="text-lg md:text-xl font-bold text-[#59437a] mt-6">Beyond Tech</h2>
                   <p className="text-sm md:text-base">
-                    Beyond tech, my experience as a Boy Scout and volunteer has shaped my problem-solving and leadership skills, instilling a strong sense of community and responsibility. Combined with my technical background, this equips me to contribute meaningfully to computer science research. I'm committed to continuous learning and driving impactful change in this evolving field.
+                    Beyond tech, my experience as a Boy Scout and volunteer has shaped my problem-solving and leadership skills, instilling a strong sense of community and responsibility. Combined with my technical background, this equips me to contribute meaningfully to computer science research. I&apos;m committed to continuous learning and driving impactful change in this evolving field.
                   </p>
                 </div>
                 <button className="bg-[#c262af] text-white px-8 py-4 rounded-full hover:bg-opacity-90 transition duration-300 w-full mt-auto text-sm md:text-base font-semibold">

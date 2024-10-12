@@ -43,7 +43,7 @@ const Hero = () => {
             >
               <h1 className="text-7xl md:text-8xl font-bold text-white leading-tight mb-4 font-serif">
                 <span className="block">Hello</span>
-                <span className="block">I'm Ather</span>
+                <span className="block">I&apos;m Ather</span>
                 <span className="block">Ali</span>
               </h1>
               <p className="text-xl md:text-2xl text-white mt-6">
